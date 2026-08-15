@@ -8,13 +8,13 @@
  "sections": {
   "paper": "论文_从歧义到完备逻辑.md (14 章 + 附录)",
   "report": "发表报告_从歧义到完备逻辑.md",
-  "theory": "26 篇理论文档",
+  "theory": "26 篇理论文档 + 逐token设计矩阵",
   "results": "21 份实验结果",
   "configs": "84 个实验配置",
   "scripts": "13 个实验脚本",
   "lean": "basepoint-selfref 5 文件 (7 定理)"
  },
- "hash_count": 152,
+ "hash_count": 153,
  "hashes": {
   "README.md": "1562fd18ef9795dc109cb948075914549f6d3263805d93d4ec25d4170f245168",
   "发表报告_从歧义到完备逻辑.md": "a70e2ba531ba85ff87580c0c0dab7c2c8e7c6f1d79132ad5bf828baed6fbd9fe",
@@ -167,7 +167,8 @@
   "theory/观点_基点恢复需加轴.md": "f59bcbf1b955e4f0efc665bd1cbe165afda20ba170f6b52e2445fd72f0b5bb1a",
   "theory/观点_直觉可用不等于结构正确.md": "3ac8f02af9c2d1cdbb81a7ebb6b9e636df739c7c45e525a0209b4498dd71da43",
   "theory/观点_迭代语法自然数步骤与全维度语法.md": "f7525a1ee25b5a9ef490d6c8b3cd70d741c9c061807414b20b7cd49338622fb3",
-  "theory/证明_非自然数基点Church错误需深迭代.md": "105334c5cc366a170b717850307790402e1f6e5d313861594aa2f22f819affcb"
+  "theory/证明_非自然数基点Church错误需深迭代.md": "105334c5cc366a170b717850307790402e1f6e5d313861594aa2f22f819affcb",
+  "theory/逐token设计矩阵.md": "eae9d13867b7f90d81bc55929501340ea1fe220db75db62ac1f4d0bf490fd8dd"
  },
  "theorems": {
   "fixed_point_is_selfref": "固定点 = 自指",
